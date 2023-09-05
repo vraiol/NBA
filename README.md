@@ -1,5 +1,5 @@
 # NBA
-NBA STATS
+LINK DO REPOSITÓRIO KAGGLE
 https://www.kaggle.com/datasets/joebeachcapital/nba-player-statistics
 
 # Estatísticas da NBA com Dash
